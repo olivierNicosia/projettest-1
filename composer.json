@@ -1,0 +1,14 @@
+{
+    "name": "cleo/projet",
+    "require": {
+        "patchwork/utf8": ">=1.1.17"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cleo-consulting",
+            "email": "jb.monin@cleo-consulting.fr"
+        }
+    ],
+    "minimum-stability": "dev"
+}
